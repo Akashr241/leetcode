@@ -44,6 +44,7 @@
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/Akashr241/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Akashr241/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0821-shortest-distance-to-a-character](https://github.com/Akashr241/leetcode/tree/master/0821-shortest-distance-to-a-character) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -58,8 +59,13 @@
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/Akashr241/leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0821-shortest-distance-to-a-character](https://github.com/Akashr241/leetcode/tree/master/0821-shortest-distance-to-a-character) |
 ## Sorting
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/Akashr241/leetcode/tree/master/0349-intersection-of-two-arrays) |
+## String
+|  |
+| ------- |
+| [0821-shortest-distance-to-a-character](https://github.com/Akashr241/leetcode/tree/master/0821-shortest-distance-to-a-character) |
 <!---LeetCode Topics End-->
