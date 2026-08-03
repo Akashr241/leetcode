@@ -47,6 +47,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/Akashr241/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Akashr241/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0821-shortest-distance-to-a-character](https://github.com/Akashr241/leetcode/tree/master/0821-shortest-distance-to-a-character) |
+| [0832-flipping-an-image](https://github.com/Akashr241/leetcode/tree/master/0832-flipping-an-image) |
 | [0905-sort-array-by-parity](https://github.com/Akashr241/leetcode/tree/master/0905-sort-array-by-parity) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Akashr241/leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Binary Search Tree
@@ -65,6 +66,7 @@
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/Akashr241/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0821-shortest-distance-to-a-character](https://github.com/Akashr241/leetcode/tree/master/0821-shortest-distance-to-a-character) |
+| [0832-flipping-an-image](https://github.com/Akashr241/leetcode/tree/master/0832-flipping-an-image) |
 | [0905-sort-array-by-parity](https://github.com/Akashr241/leetcode/tree/master/0905-sort-array-by-parity) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Akashr241/leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Sorting
@@ -81,4 +83,16 @@
 |  |
 | ------- |
 | [0160-intersection-of-two-linked-lists](https://github.com/Akashr241/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0832-flipping-an-image](https://github.com/Akashr241/leetcode/tree/master/0832-flipping-an-image) |
+## Matrix
+|  |
+| ------- |
+| [0832-flipping-an-image](https://github.com/Akashr241/leetcode/tree/master/0832-flipping-an-image) |
+## Simulation
+|  |
+| ------- |
+| [0832-flipping-an-image](https://github.com/Akashr241/leetcode/tree/master/0832-flipping-an-image) |
 <!---LeetCode Topics End-->
