@@ -45,6 +45,7 @@
 | ------- |
 | [0160-intersection-of-two-linked-lists](https://github.com/Akashr241/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0349-intersection-of-two-arrays](https://github.com/Akashr241/leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0541-reverse-string-ii](https://github.com/Akashr241/leetcode/tree/master/0541-reverse-string-ii) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Akashr241/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0821-shortest-distance-to-a-character](https://github.com/Akashr241/leetcode/tree/master/0821-shortest-distance-to-a-character) |
 | [0832-flipping-an-image](https://github.com/Akashr241/leetcode/tree/master/0832-flipping-an-image) |
@@ -78,6 +79,7 @@
 ## String
 |  |
 | ------- |
+| [0541-reverse-string-ii](https://github.com/Akashr241/leetcode/tree/master/0541-reverse-string-ii) |
 | [0821-shortest-distance-to-a-character](https://github.com/Akashr241/leetcode/tree/master/0821-shortest-distance-to-a-character) |
 ## Linked List
 |  |
