@@ -39,12 +39,14 @@
 | ------- |
 | [0160-intersection-of-two-linked-lists](https://github.com/Akashr241/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0349-intersection-of-two-arrays](https://github.com/Akashr241/leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Akashr241/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Akashr241/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Two Pointers
 |  |
 | ------- |
 | [0160-intersection-of-two-linked-lists](https://github.com/Akashr241/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0349-intersection-of-two-arrays](https://github.com/Akashr241/leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Akashr241/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0541-reverse-string-ii](https://github.com/Akashr241/leetcode/tree/master/0541-reverse-string-ii) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Akashr241/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0821-shortest-distance-to-a-character](https://github.com/Akashr241/leetcode/tree/master/0821-shortest-distance-to-a-character) |
@@ -55,6 +57,7 @@
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/Akashr241/leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Akashr241/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Akashr241/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0897-increasing-order-search-tree](https://github.com/Akashr241/leetcode/tree/master/0897-increasing-order-search-tree) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Akashr241/leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
@@ -66,6 +69,7 @@
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/Akashr241/leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Akashr241/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0821-shortest-distance-to-a-character](https://github.com/Akashr241/leetcode/tree/master/0821-shortest-distance-to-a-character) |
 | [0832-flipping-an-image](https://github.com/Akashr241/leetcode/tree/master/0832-flipping-an-image) |
 | [0905-sort-array-by-parity](https://github.com/Akashr241/leetcode/tree/master/0905-sort-array-by-parity) |
@@ -74,6 +78,7 @@
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/Akashr241/leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Akashr241/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0905-sort-array-by-parity](https://github.com/Akashr241/leetcode/tree/master/0905-sort-array-by-parity) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Akashr241/leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## String
