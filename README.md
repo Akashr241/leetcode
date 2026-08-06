@@ -89,6 +89,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Akashr241/leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Akashr241/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 ## Bit Manipulation
 |  |
@@ -102,4 +103,8 @@
 |  |
 | ------- |
 | [0832-flipping-an-image](https://github.com/Akashr241/leetcode/tree/master/0832-flipping-an-image) |
+## Recursion
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Akashr241/leetcode/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
