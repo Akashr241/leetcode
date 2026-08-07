@@ -45,6 +45,7 @@
 |  |
 | ------- |
 | [0160-intersection-of-two-linked-lists](https://github.com/Akashr241/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0234-palindrome-linked-list](https://github.com/Akashr241/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0349-intersection-of-two-arrays](https://github.com/Akashr241/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Akashr241/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0541-reverse-string-ii](https://github.com/Akashr241/leetcode/tree/master/0541-reverse-string-ii) |
@@ -64,6 +65,7 @@
 ## Stack
 |  |
 | ------- |
+| [0234-palindrome-linked-list](https://github.com/Akashr241/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0897-increasing-order-search-tree](https://github.com/Akashr241/leetcode/tree/master/0897-increasing-order-search-tree) |
 ## Array
 |  |
@@ -91,6 +93,7 @@
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Akashr241/leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Akashr241/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0234-palindrome-linked-list](https://github.com/Akashr241/leetcode/tree/master/0234-palindrome-linked-list) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -107,4 +110,5 @@
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Akashr241/leetcode/tree/master/0021-merge-two-sorted-lists) |
+| [0234-palindrome-linked-list](https://github.com/Akashr241/leetcode/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
