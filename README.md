@@ -58,6 +58,7 @@
 | [0832-flipping-an-image](https://github.com/Akashr241/leetcode/tree/master/0832-flipping-an-image) |
 | [0905-sort-array-by-parity](https://github.com/Akashr241/leetcode/tree/master/0905-sort-array-by-parity) |
 | [0917-reverse-only-letters](https://github.com/Akashr241/leetcode/tree/master/0917-reverse-only-letters) |
+| [0942-di-string-match](https://github.com/Akashr241/leetcode/tree/master/0942-di-string-match) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Akashr241/leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Binary Search Tree
 |  |
@@ -82,6 +83,7 @@
 | [0821-shortest-distance-to-a-character](https://github.com/Akashr241/leetcode/tree/master/0821-shortest-distance-to-a-character) |
 | [0832-flipping-an-image](https://github.com/Akashr241/leetcode/tree/master/0832-flipping-an-image) |
 | [0905-sort-array-by-parity](https://github.com/Akashr241/leetcode/tree/master/0905-sort-array-by-parity) |
+| [0942-di-string-match](https://github.com/Akashr241/leetcode/tree/master/0942-di-string-match) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Akashr241/leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Sorting
 |  |
@@ -100,6 +102,7 @@
 | [0557-reverse-words-in-a-string-iii](https://github.com/Akashr241/leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0821-shortest-distance-to-a-character](https://github.com/Akashr241/leetcode/tree/master/0821-shortest-distance-to-a-character) |
 | [0917-reverse-only-letters](https://github.com/Akashr241/leetcode/tree/master/0917-reverse-only-letters) |
+| [0942-di-string-match](https://github.com/Akashr241/leetcode/tree/master/0942-di-string-match) |
 ## Linked List
 |  |
 | ------- |
@@ -127,6 +130,7 @@
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/Akashr241/leetcode/tree/master/0455-assign-cookies) |
+| [0942-di-string-match](https://github.com/Akashr241/leetcode/tree/master/0942-di-string-match) |
 ## Quicksort
 |  |
 | ------- |
