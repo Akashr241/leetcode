@@ -57,6 +57,7 @@
 | [0680-valid-palindrome-ii](https://github.com/Akashr241/leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0821-shortest-distance-to-a-character](https://github.com/Akashr241/leetcode/tree/master/0821-shortest-distance-to-a-character) |
 | [0832-flipping-an-image](https://github.com/Akashr241/leetcode/tree/master/0832-flipping-an-image) |
+| [0844-backspace-string-compare](https://github.com/Akashr241/leetcode/tree/master/0844-backspace-string-compare) |
 | [0905-sort-array-by-parity](https://github.com/Akashr241/leetcode/tree/master/0905-sort-array-by-parity) |
 | [0917-reverse-only-letters](https://github.com/Akashr241/leetcode/tree/master/0917-reverse-only-letters) |
 | [0922-sort-array-by-parity-ii](https://github.com/Akashr241/leetcode/tree/master/0922-sort-array-by-parity-ii) |
@@ -74,6 +75,7 @@
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/Akashr241/leetcode/tree/master/0234-palindrome-linked-list) |
+| [0844-backspace-string-compare](https://github.com/Akashr241/leetcode/tree/master/0844-backspace-string-compare) |
 | [0897-increasing-order-search-tree](https://github.com/Akashr241/leetcode/tree/master/0897-increasing-order-search-tree) |
 ## Array
 |  |
@@ -106,6 +108,7 @@
 | [0557-reverse-words-in-a-string-iii](https://github.com/Akashr241/leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0680-valid-palindrome-ii](https://github.com/Akashr241/leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0821-shortest-distance-to-a-character](https://github.com/Akashr241/leetcode/tree/master/0821-shortest-distance-to-a-character) |
+| [0844-backspace-string-compare](https://github.com/Akashr241/leetcode/tree/master/0844-backspace-string-compare) |
 | [0917-reverse-only-letters](https://github.com/Akashr241/leetcode/tree/master/0917-reverse-only-letters) |
 | [0942-di-string-match](https://github.com/Akashr241/leetcode/tree/master/0942-di-string-match) |
 ## Linked List
@@ -126,6 +129,7 @@
 |  |
 | ------- |
 | [0832-flipping-an-image](https://github.com/Akashr241/leetcode/tree/master/0832-flipping-an-image) |
+| [0844-backspace-string-compare](https://github.com/Akashr241/leetcode/tree/master/0844-backspace-string-compare) |
 ## Recursion
 |  |
 | ------- |
