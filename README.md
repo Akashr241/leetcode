@@ -66,6 +66,7 @@
 | [1332-remove-palindromic-subsequences](https://github.com/Akashr241/leetcode/tree/master/1332-remove-palindromic-subsequences) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Akashr241/leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/Akashr241/leetcode/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
+| [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/Akashr241/leetcode/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -93,6 +94,7 @@
 | [0922-sort-array-by-parity-ii](https://github.com/Akashr241/leetcode/tree/master/0922-sort-array-by-parity-ii) |
 | [0942-di-string-match](https://github.com/Akashr241/leetcode/tree/master/0942-di-string-match) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Akashr241/leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/Akashr241/leetcode/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
 ## Sorting
 |  |
 | ------- |
