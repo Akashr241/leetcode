@@ -71,6 +71,7 @@
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Akashr241/leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/Akashr241/leetcode/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 | [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/Akashr241/leetcode/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
+| [3992-rearrange-string-to-avoid-character-pair](https://github.com/Akashr241/leetcode/tree/master/3992-rearrange-string-to-avoid-character-pair) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -112,6 +113,7 @@
 | [0905-sort-array-by-parity](https://github.com/Akashr241/leetcode/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/Akashr241/leetcode/tree/master/0922-sort-array-by-parity-ii) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Akashr241/leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [3992-rearrange-string-to-avoid-character-pair](https://github.com/Akashr241/leetcode/tree/master/3992-rearrange-string-to-avoid-character-pair) |
 ## String
 |  |
 | ------- |
@@ -129,6 +131,7 @@
 | [2000-reverse-prefix-of-word](https://github.com/Akashr241/leetcode/tree/master/2000-reverse-prefix-of-word) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Akashr241/leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/Akashr241/leetcode/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
+| [3992-rearrange-string-to-avoid-character-pair](https://github.com/Akashr241/leetcode/tree/master/3992-rearrange-string-to-avoid-character-pair) |
 ## Linked List
 |  |
 | ------- |
