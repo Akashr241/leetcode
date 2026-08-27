@@ -62,6 +62,7 @@
 | [0905-sort-array-by-parity](https://github.com/Akashr241/leetcode/tree/master/0905-sort-array-by-parity) |
 | [0917-reverse-only-letters](https://github.com/Akashr241/leetcode/tree/master/0917-reverse-only-letters) |
 | [0922-sort-array-by-parity-ii](https://github.com/Akashr241/leetcode/tree/master/0922-sort-array-by-parity-ii) |
+| [0925-long-pressed-name](https://github.com/Akashr241/leetcode/tree/master/0925-long-pressed-name) |
 | [0942-di-string-match](https://github.com/Akashr241/leetcode/tree/master/0942-di-string-match) |
 | [1089-duplicate-zeros](https://github.com/Akashr241/leetcode/tree/master/1089-duplicate-zeros) |
 | [1332-remove-palindromic-subsequences](https://github.com/Akashr241/leetcode/tree/master/1332-remove-palindromic-subsequences) |
@@ -125,6 +126,7 @@
 | [0821-shortest-distance-to-a-character](https://github.com/Akashr241/leetcode/tree/master/0821-shortest-distance-to-a-character) |
 | [0844-backspace-string-compare](https://github.com/Akashr241/leetcode/tree/master/0844-backspace-string-compare) |
 | [0917-reverse-only-letters](https://github.com/Akashr241/leetcode/tree/master/0917-reverse-only-letters) |
+| [0925-long-pressed-name](https://github.com/Akashr241/leetcode/tree/master/0925-long-pressed-name) |
 | [0942-di-string-match](https://github.com/Akashr241/leetcode/tree/master/0942-di-string-match) |
 | [1332-remove-palindromic-subsequences](https://github.com/Akashr241/leetcode/tree/master/1332-remove-palindromic-subsequences) |
 | [1768-merge-strings-alternately](https://github.com/Akashr241/leetcode/tree/master/1768-merge-strings-alternately) |
