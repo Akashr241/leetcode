@@ -68,6 +68,7 @@
 | [1332-remove-palindromic-subsequences](https://github.com/Akashr241/leetcode/tree/master/1332-remove-palindromic-subsequences) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Akashr241/leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1768-merge-strings-alternately](https://github.com/Akashr241/leetcode/tree/master/1768-merge-strings-alternately) |
+| [1961-check-if-string-is-a-prefix-of-array](https://github.com/Akashr241/leetcode/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 | [2000-reverse-prefix-of-word](https://github.com/Akashr241/leetcode/tree/master/2000-reverse-prefix-of-word) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Akashr241/leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/Akashr241/leetcode/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
@@ -102,6 +103,7 @@
 | [0942-di-string-match](https://github.com/Akashr241/leetcode/tree/master/0942-di-string-match) |
 | [1089-duplicate-zeros](https://github.com/Akashr241/leetcode/tree/master/1089-duplicate-zeros) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Akashr241/leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [1961-check-if-string-is-a-prefix-of-array](https://github.com/Akashr241/leetcode/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Akashr241/leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/Akashr241/leetcode/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
 ## Sorting
@@ -130,6 +132,7 @@
 | [0942-di-string-match](https://github.com/Akashr241/leetcode/tree/master/0942-di-string-match) |
 | [1332-remove-palindromic-subsequences](https://github.com/Akashr241/leetcode/tree/master/1332-remove-palindromic-subsequences) |
 | [1768-merge-strings-alternately](https://github.com/Akashr241/leetcode/tree/master/1768-merge-strings-alternately) |
+| [1961-check-if-string-is-a-prefix-of-array](https://github.com/Akashr241/leetcode/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 | [2000-reverse-prefix-of-word](https://github.com/Akashr241/leetcode/tree/master/2000-reverse-prefix-of-word) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Akashr241/leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/Akashr241/leetcode/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
