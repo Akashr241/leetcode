@@ -41,6 +41,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/Akashr241/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Akashr241/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Akashr241/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [2367-number-of-arithmetic-triplets](https://github.com/Akashr241/leetcode/tree/master/2367-number-of-arithmetic-triplets) |
 ## Two Pointers
 |  |
 | ------- |
@@ -71,6 +72,7 @@
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/Akashr241/leetcode/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 | [2000-reverse-prefix-of-word](https://github.com/Akashr241/leetcode/tree/master/2000-reverse-prefix-of-word) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Akashr241/leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
+| [2367-number-of-arithmetic-triplets](https://github.com/Akashr241/leetcode/tree/master/2367-number-of-arithmetic-triplets) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/Akashr241/leetcode/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 | [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/Akashr241/leetcode/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
 | [3992-rearrange-string-to-avoid-character-pair](https://github.com/Akashr241/leetcode/tree/master/3992-rearrange-string-to-avoid-character-pair) |
@@ -105,6 +107,7 @@
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Akashr241/leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/Akashr241/leetcode/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Akashr241/leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
+| [2367-number-of-arithmetic-triplets](https://github.com/Akashr241/leetcode/tree/master/2367-number-of-arithmetic-triplets) |
 | [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/Akashr241/leetcode/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
 ## Sorting
 |  |
@@ -172,4 +175,8 @@
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/Akashr241/leetcode/tree/master/0455-assign-cookies) |
+## Enumeration
+|  |
+| ------- |
+| [2367-number-of-arithmetic-triplets](https://github.com/Akashr241/leetcode/tree/master/2367-number-of-arithmetic-triplets) |
 <!---LeetCode Topics End-->
