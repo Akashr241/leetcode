@@ -97,6 +97,7 @@
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Akashr241/leetcode/tree/master/0088-merge-sorted-array) |
+| [0118-pascals-triangle](https://github.com/Akashr241/leetcode/tree/master/0118-pascals-triangle) |
 | [0349-intersection-of-two-arrays](https://github.com/Akashr241/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Akashr241/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/Akashr241/leetcode/tree/master/0455-assign-cookies) |
@@ -183,4 +184,8 @@
 |  |
 | ------- |
 | [2367-number-of-arithmetic-triplets](https://github.com/Akashr241/leetcode/tree/master/2367-number-of-arithmetic-triplets) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0118-pascals-triangle](https://github.com/Akashr241/leetcode/tree/master/0118-pascals-triangle) |
 <!---LeetCode Topics End-->
