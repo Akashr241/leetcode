@@ -74,6 +74,7 @@
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Akashr241/leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2367-number-of-arithmetic-triplets](https://github.com/Akashr241/leetcode/tree/master/2367-number-of-arithmetic-triplets) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Akashr241/leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/Akashr241/leetcode/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/Akashr241/leetcode/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 | [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/Akashr241/leetcode/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
 | [3992-rearrange-string-to-avoid-character-pair](https://github.com/Akashr241/leetcode/tree/master/3992-rearrange-string-to-avoid-character-pair) |
@@ -112,6 +113,7 @@
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Akashr241/leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2367-number-of-arithmetic-triplets](https://github.com/Akashr241/leetcode/tree/master/2367-number-of-arithmetic-triplets) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Akashr241/leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/Akashr241/leetcode/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/Akashr241/leetcode/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
 ## Sorting
 |  |
@@ -124,6 +126,7 @@
 | [0922-sort-array-by-parity-ii](https://github.com/Akashr241/leetcode/tree/master/0922-sort-array-by-parity-ii) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Akashr241/leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Akashr241/leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/Akashr241/leetcode/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3992-rearrange-string-to-avoid-character-pair](https://github.com/Akashr241/leetcode/tree/master/3992-rearrange-string-to-avoid-character-pair) |
 ## String
 |  |
