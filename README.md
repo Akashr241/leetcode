@@ -73,6 +73,7 @@
 | [2000-reverse-prefix-of-word](https://github.com/Akashr241/leetcode/tree/master/2000-reverse-prefix-of-word) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Akashr241/leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2367-number-of-arithmetic-triplets](https://github.com/Akashr241/leetcode/tree/master/2367-number-of-arithmetic-triplets) |
+| [2697-lexicographically-smallest-palindrome](https://github.com/Akashr241/leetcode/tree/master/2697-lexicographically-smallest-palindrome) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Akashr241/leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2903-find-indices-with-index-and-value-difference-i](https://github.com/Akashr241/leetcode/tree/master/2903-find-indices-with-index-and-value-difference-i) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/Akashr241/leetcode/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
@@ -148,6 +149,7 @@
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/Akashr241/leetcode/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 | [2000-reverse-prefix-of-word](https://github.com/Akashr241/leetcode/tree/master/2000-reverse-prefix-of-word) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Akashr241/leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
+| [2697-lexicographically-smallest-palindrome](https://github.com/Akashr241/leetcode/tree/master/2697-lexicographically-smallest-palindrome) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/Akashr241/leetcode/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 | [3992-rearrange-string-to-avoid-character-pair](https://github.com/Akashr241/leetcode/tree/master/3992-rearrange-string-to-avoid-character-pair) |
 ## Linked List
@@ -181,6 +183,7 @@
 | [0455-assign-cookies](https://github.com/Akashr241/leetcode/tree/master/0455-assign-cookies) |
 | [0680-valid-palindrome-ii](https://github.com/Akashr241/leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0942-di-string-match](https://github.com/Akashr241/leetcode/tree/master/0942-di-string-match) |
+| [2697-lexicographically-smallest-palindrome](https://github.com/Akashr241/leetcode/tree/master/2697-lexicographically-smallest-palindrome) |
 ## Quicksort
 |  |
 | ------- |
