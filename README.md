@@ -109,6 +109,7 @@
 | [0035-search-insert-position](https://github.com/Akashr241/leetcode/tree/master/0035-search-insert-position) |
 | [0088-merge-sorted-array](https://github.com/Akashr241/leetcode/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/Akashr241/leetcode/tree/master/0118-pascals-triangle) |
+| [0136-single-number](https://github.com/Akashr241/leetcode/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/Akashr241/leetcode/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/Akashr241/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Akashr241/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -175,6 +176,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/Akashr241/leetcode/tree/master/0136-single-number) |
 | [0832-flipping-an-image](https://github.com/Akashr241/leetcode/tree/master/0832-flipping-an-image) |
 ## Matrix
 |  |
