@@ -119,6 +119,7 @@
 | [0905-sort-array-by-parity](https://github.com/Akashr241/leetcode/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/Akashr241/leetcode/tree/master/0922-sort-array-by-parity-ii) |
 | [0942-di-string-match](https://github.com/Akashr241/leetcode/tree/master/0942-di-string-match) |
+| [1046-last-stone-weight](https://github.com/Akashr241/leetcode/tree/master/1046-last-stone-weight) |
 | [1089-duplicate-zeros](https://github.com/Akashr241/leetcode/tree/master/1089-duplicate-zeros) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Akashr241/leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Akashr241/leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
@@ -216,4 +217,8 @@
 |  |
 | ------- |
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Akashr241/leetcode/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1046-last-stone-weight](https://github.com/Akashr241/leetcode/tree/master/1046-last-stone-weight) |
 <!---LeetCode Topics End-->
