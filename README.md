@@ -44,6 +44,7 @@
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Akashr241/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Akashr241/leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2367-number-of-arithmetic-triplets](https://github.com/Akashr241/leetcode/tree/master/2367-number-of-arithmetic-triplets) |
+| [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/Akashr241/leetcode/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 ## Two Pointers
 |  |
 | ------- |
@@ -77,6 +78,7 @@
 | [2000-reverse-prefix-of-word](https://github.com/Akashr241/leetcode/tree/master/2000-reverse-prefix-of-word) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Akashr241/leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2367-number-of-arithmetic-triplets](https://github.com/Akashr241/leetcode/tree/master/2367-number-of-arithmetic-triplets) |
+| [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/Akashr241/leetcode/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2697-lexicographically-smallest-palindrome](https://github.com/Akashr241/leetcode/tree/master/2697-lexicographically-smallest-palindrome) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Akashr241/leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2903-find-indices-with-index-and-value-difference-i](https://github.com/Akashr241/leetcode/tree/master/2903-find-indices-with-index-and-value-difference-i) |
@@ -128,6 +130,7 @@
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/Akashr241/leetcode/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Akashr241/leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2367-number-of-arithmetic-triplets](https://github.com/Akashr241/leetcode/tree/master/2367-number-of-arithmetic-triplets) |
+| [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/Akashr241/leetcode/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Akashr241/leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2903-find-indices-with-index-and-value-difference-i](https://github.com/Akashr241/leetcode/tree/master/2903-find-indices-with-index-and-value-difference-i) |
 | [2970-count-the-number-of-incremovable-subarrays-i](https://github.com/Akashr241/leetcode/tree/master/2970-count-the-number-of-incremovable-subarrays-i) |
@@ -145,6 +148,7 @@
 | [0922-sort-array-by-parity-ii](https://github.com/Akashr241/leetcode/tree/master/0922-sort-array-by-parity-ii) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Akashr241/leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Akashr241/leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/Akashr241/leetcode/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Akashr241/leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/Akashr241/leetcode/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3992-rearrange-string-to-avoid-character-pair](https://github.com/Akashr241/leetcode/tree/master/3992-rearrange-string-to-avoid-character-pair) |
